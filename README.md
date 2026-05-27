@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nahuel 👋
 
-<!--
-**NawlFountains/NawlFountains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Scientist | AI & ML Engineer | Software Developer
 
-Here are some ideas to get you started:
+🌐 [Portfolio](https://nawlfountains.github.io/Portfolio-Landing-Page/)
+💼 [LinkedIn](https://linkedin.com/in/nahuel-fuentes-423a35192/)
+[Kaggle](https://www.kaggle.com/nahuelfuentes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+I build intelligent systems — from neural radiance fields to RAG pipelines. 
+Based in Argentina, passionate about AI, ML, and software engineering.
+
+## Current stack
+Python · PyTorch · LangChain · React · TypeScript
