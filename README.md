@@ -24,5 +24,5 @@ Instead of just writing code that "works on my machine," I focus on automated te
 ---
 
 ## 📈 Some Metrics From My Projects
-* **89%** code coverage (`pytest-cov`) on my latest FastAPI backend repository.
+* **97%** code coverage (`pytest-cov`) on my latest FastAPI backend repository.
 * **0.94** answer relevancy achieved using the RAGAS evaluation framework on AI pipelines.
